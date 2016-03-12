@@ -1,7 +1,7 @@
 {
   "name": "web-app",
   "version": "1.0.0",
-  "description": "Reasonable starting point for building a web app",
+  "description": "Simple address book",
   "main": "./app/index.js",
   "private": true,
   "scripts": {
@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cesarandreu/web-app.git"
+    "url": "git+https://github.com/zollinger/react-redux-addressbook.git"
   },
-  "author": "Cesar Andreu <cesarandreu@gmail.com> (https://github.com/cesarandreu)",
+  "author": "Stefan Zollinger",
   "license": "MIT",
-  "homepage": "https://github.com/cesarandreu/web-app#readme",
+  "homepage": "https://github.com/zollinger/",
   "dependencies": {
     "bootstrap-sass": "^3.3.6",
     "debug": "^2.2.0",
